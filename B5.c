@@ -1,0 +1,29 @@
+//program to print the smallest number out of a,b,c
+#include <stdio.h>
+int main(void){
+int a,b,c;
+printf("enter a");
+scanf("%d",&a);
+printf("enter b");
+scanf("%d",&b);
+printf("enter c");
+scanf("%d",&c);
+if(a>b){
+    if(b>c){
+        printf("c is smallest out of three");
+    }
+    else {
+        printf("b is smallest out of three");
+    }
+}
+else {
+    if (c>a){
+        printf("a is smallest out of three");
+    }
+    else {
+        printf("c is smallest out of three");
+    }
+}
+
+    return 0;
+}

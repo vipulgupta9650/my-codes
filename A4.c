@@ -1,0 +1,11 @@
+// program to print the average of three numbers
+#include <stdio.h>
+int main(void) {
+int a,b,c;
+printf("enter the numbers");
+scanf("%d\n%d\n%d",&a,&b,&c);
+printf("your average is %d",(a+b+c)/3);
+
+
+return 0;
+}

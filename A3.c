@@ -1,0 +1,9 @@
+// to check if a number is a two digit number or not
+#include <stdio.h>
+int main(void) {
+int n;
+printf("enter n");
+scanf("%d",&n);
+printf("%d", n>9 && n< 100);
+    return 0;
+}

@@ -1,0 +1,13 @@
+// this program is also correct with no curly braces in if
+#include <stdio.h>
+int main(void){
+int age;
+printf("enter age");
+scanf("%d",&age);
+if(age>18)
+printf("adult");
+else{
+    printf("not adult\n16");
+    printf("can not drive");
+}
+return 0;}

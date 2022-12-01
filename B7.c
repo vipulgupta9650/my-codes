@@ -1,0 +1,25 @@
+/*program to give grades to a student 
+30<=marks<70 is B
+70<=marks <90 is A
+90<=marks<100 is A*/
+#include <stdio.h>
+int main(){
+int marks;
+printf("enter marks");
+scanf("%d",&marks);
+if(marks < 30 && marks >=0 ){
+    printf("C");
+}
+else if (30<=marks && marks < 70){
+    printf("B");
+}
+else if (70<= marks && marks <90){
+    printf("A");
+}
+else if ("marks >=90 && marks <=100"){
+    printf("A+");
+}
+else {printf("wrong marks");}
+
+    return 0;
+}

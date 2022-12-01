@@ -1,0 +1,9 @@
+/*program to print true for if its monday or its raining*/
+#include <stdio.h>
+int main(void){
+int its_monday = 1;
+int its_raining = 0;
+printf("%d" ,its_monday || its_raining);
+    return 0;
+}
+// note that comma is must before its_monday in printf

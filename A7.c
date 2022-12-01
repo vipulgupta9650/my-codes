@@ -1,0 +1,12 @@
+// if else statements
+#include <stdio.h>
+int main(void){
+int age;
+printf("enter age");
+scanf("%d",&age);
+if(age >18)
+printf("adult\n");
+else printf("not adult");
+return 0;
+}
+// curly braces not necessary in case of only one statement in if and else
