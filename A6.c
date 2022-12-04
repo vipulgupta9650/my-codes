@@ -17,4 +17,4 @@ printf("thank you");
     return 0;
 }
 //these curly braces are not necessary if we have only one statement in if and else , lets understand this by next code
-// if we have to check condition that age is 18 or not in condition of if so we can write age = 18 and age ==18 both but age ==18 is more recommended
+// if we have to check condition that age is 18 or not in condition of if so we have to write age ==18 
