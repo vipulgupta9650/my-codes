@@ -16,3 +16,4 @@ else {
 }
     return 0;
 }
+// if we have to write a character or symbol in condition of if and else then we have to write it in single invited commas
