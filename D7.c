@@ -15,3 +15,4 @@ for (int i=0;i<=5;i++){
     return 0;
 }
 //dhyan rakhna isme print hoga 0,1,2 but yhi agar ye if waali condition printf ke neeche likhi hoti to print hta 0,1,2,3
+//break se nested loop ke bhee ham baahar ho jaate hai
