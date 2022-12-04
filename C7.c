@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main() {
+for (char i='a';i<='z';i=i+1){
+
+    printf("%c\n",i);
+}
+
+
+    return 0;
+}
+/*  ab aaya samajh mai kya kehna chah rha thaa ki char ko for ki condition mai lena hai to usse initialisiation ke bheetar  
+hee decleare krna padega waise esa float aur int mai bhee kar  sakte hai aur yhi jyada correct and preferrable hai so ab se yhi use karunga mai  */
+// Aur ek baat aur ki hamesha characters ko single invited commas mai likhna padega
