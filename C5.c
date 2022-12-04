@@ -16,7 +16,7 @@ int main(void)
     printf("%d",k);
 
 int m=10;
-printf("%d",--m);
+printf("%d",--m);//decrease then use
 printf("%d",m);
     return 0;
 }
