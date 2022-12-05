@@ -15,3 +15,4 @@ printf("thank you");
 
     return 0;
 }
+agar yhi even number kaa krna hota to n%2==0 aata naa ki n%2=0
