@@ -8,3 +8,4 @@ while (i<=5){
 }
     return 0;
 }
+//while loop mai pehle hee variable decleare krna padta hai
