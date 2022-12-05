@@ -3,7 +3,7 @@ int main(void) {
 char day;
 // m- monday t-tuesday w-wednesday T-thursday f-friday s-saturday S-sunday
 printf("enter day");
-scanf("%s",&day);
+scanf("%c",&day);
 switch(day){
     case 'm' : printf("monday");
     break;
