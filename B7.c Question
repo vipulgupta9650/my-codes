@@ -16,7 +16,7 @@ else if (30<=marks && marks < 70){
 else if (70<= marks && marks <90){
     printf("A");
 }
-else if ("marks >=90 && marks <=100"){
+else if (marks >=90 && marks <=100){
     printf("A+");
 }
 else {printf("wrong marks");}
