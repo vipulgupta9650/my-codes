@@ -1,1 +1,0 @@
-//write a program to print prime numbers in a range
