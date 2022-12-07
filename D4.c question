@@ -17,4 +17,4 @@ int main()
     printf("your sum is %d",sum);
     return 0;
 }
-//why this is wrong
+
