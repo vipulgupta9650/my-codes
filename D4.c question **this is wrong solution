@@ -1,5 +1,6 @@
 //print the sum of first n natural numbers using for loop
 //this is a very important question
+//this is wrong solution
 #include <stdio.h>
 int main() 
 {
